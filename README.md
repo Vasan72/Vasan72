@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I’m a data enthusiast passionate about uncovering insights from data to drive informed decision-making. Here's what you'll find here:
 
 ### 👨🏻‍💻 About Me
-  <img align="right" width="360" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+  <img align="right" width="250" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
   
 - 🔍 **Currently learning:** Advanced techniques in data manipulation, visualization, and analysis using SQL, Tableau, and Python.
 - 🤝 **Seeking collaborations on:** Data-driven projects, open-source contributions, and innovative data visualizations.
